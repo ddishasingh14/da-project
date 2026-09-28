@@ -44,3 +44,6 @@ for demonstration.
 
 ## Author
 Disha Singh
+## Live Dashboard
+
+[Click here to view the Student Performance Dashboard](https://da-project-aue2stk3xdgbu9arqzmb9.streamlit.app)
